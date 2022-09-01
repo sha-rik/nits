@@ -50,6 +50,7 @@ typedef long double lld;
 #define read(a , n) for(int i = 0  ; i <  n ; i ++){cin >> a[i];}
 void sol()
 {
+    //I am Partho . I am writing this comment.
     ll n;cin>>n;
     mcl m1;
     m1['T']++;
