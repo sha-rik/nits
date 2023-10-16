@@ -1,4 +1,4 @@
-// HONESTLY SE CODE LIKHNE KA FAL MILA MUJHE,BUT I'M HAPPY :-))
+// Md Sharique Hussain 2112015
 #include <iostream>
 #include <math.h>
 #include <vector>
